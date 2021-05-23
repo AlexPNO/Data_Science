@@ -21,7 +21,7 @@ Meu portifólio de projetos de Data Science
 
 ## Projetos:
 [Anánilse de Dados Airbnb Rio de Janeiro](https://colab.research.google.com/drive/1Q3h0cwNcEOYPIAtIAZFcO7PRM4PuFMIy#scrollTo=bOyw7GVG033s)
-
+[Anánilse da violência do estado do Rio de Janeiro](https://colab.research.google.com/drive/1Xyf7ExSbuyZfEYEEi2qxPdeaelZ304qH#scrollTo=LCsiXvM3BcsO)
 ---
 
 
