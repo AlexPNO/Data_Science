@@ -16,7 +16,7 @@ Meu portifólio de projetos de Data Science
 **Links:**
 * [Blog]()
 * [LinkedIn](https://www.linkedin.com/in/alexandreprudente/)
-* [Medium](https://www.medium.com)
+* [Medium](https://prudenteale.medium.com/)
 
 
 ## Projetos:
