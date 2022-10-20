@@ -7,7 +7,7 @@ Meu portifólio de projetos de Data Science
 </p>
 
 # Alexandre Prudente
-<sub>*Engenheiro Mecânico* formado na Unicamp e estusiasta de Ciência de Dados</sub>
+<sub>*Engenheiro Mecânico* formado pela Unicamp e entusiasta de Ciência de Dados</sub>
 
 
 
