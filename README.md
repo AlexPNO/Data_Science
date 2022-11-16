@@ -24,6 +24,7 @@ Meu portifólio de projetos de Data Science
 [Anáise da violência do estado do Rio de Janeiro](https://colab.research.google.com/drive/1Xyf7ExSbuyZfEYEEi2qxPdeaelZ304qH?usp=sharing)  
 [Anáise dos dados da COVID-19 no Brasil e no mundo](https://colab.research.google.com/drive/161HidUDh2ydlgFI4tSi2SWmze196Ir3Y?usp=sharing)  
 [Detecção de Fraude em Cartões de Crédito](https://colab.research.google.com/drive/1RddO5_MIP6MxYrH5pp9TSeAAK3oZLBtY?usp=sharing)  
+[Churn Prediction para uma empresa de Telecomunicações](https://colab.research.google.com/drive/1xIRqQMDH1HSxBPwlkHATjo_tbb2dQk1q?usp=sharing)
 
 
 
